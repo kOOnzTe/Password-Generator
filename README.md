@@ -1,4 +1,4 @@
-# Simple and Secure Password Generator by Alper Celik
+# Simple & Secure Password Generator by Alper Celik
 #### Due to security issues, the random() method is not used. Instead of the random() method, it is preferred to use the secrets module. Also, GUI (Tkinter) has been added.
 
 
